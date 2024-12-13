@@ -16,15 +16,4 @@ public class Population {
         return listePersonne;
     }
 
-    public void setListePersonne(ArrayList<Personne> listePersonne) {
-        this.listePersonne = listePersonne;
-    }
-
-    public int getIdPopulation() {
-        return idPopulation;
-    }
-
-    public void setIdPopulation(int idPopulation) {
-        this.idPopulation = idPopulation;
-    }
 }

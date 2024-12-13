@@ -41,14 +41,8 @@ public class Epidemie {
         return facteurTransmissionResistants;
     }
 
-    public int getPeriodeIncubationEnNbCycles() {
-        return periodeIncubationEnNbCycles;
-    }
     //Setters
 
-    public void setPeriodeIncubationEnNbCycles(int periodeIncubationEnNbCycles) {
-        this.periodeIncubationEnNbCycles = periodeIncubationEnNbCycles;
-    }
 
     public void setProbaGuerison(float probaGuerison) {
         this.probaGuerison = probaGuerison;
